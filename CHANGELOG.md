@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-25)
+## Unreleased (2026-02-27)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`0249e24`](https://github.com/stdlib-js/stdlib/commit/0249e2403b412deca30b2675326eaef513a7ce3e) - **docs:** remove redundant NaN notes in `stats/base/ndarray/dnanstdev*` READMEs _(by Philipp Burckhardt)_
 -   [`685691c`](https://github.com/stdlib-js/stdlib/commit/685691c6065af53a0527bcd690d1ade468f452df) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`707fcd4`](https://github.com/stdlib-js/stdlib/commit/707fcd4483bd8989ea064842812555f5e382dc52) - **feat:** add `stats/base/ndarray/dnanstdevpn` [(#10375)](https://github.com/stdlib-js/stdlib/pull/10375) _(by Pratik, Athan Reines)_
 
